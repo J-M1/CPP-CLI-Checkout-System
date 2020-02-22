@@ -4,11 +4,6 @@
 #include <vector>
 #include <algorithm>
 
-// James B Miller
-// 05/11/19
-// jmlr.dev
-// https://github.com/JMiller02
-
 //Declare functions
 void Welcome();
 void ATC();
